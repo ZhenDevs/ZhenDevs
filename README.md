@@ -77,7 +77,7 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 ```
 
 ### Whatsapp Me
-<a href="https://wa.me/62895345145330"><img width="130" hight="100" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/whatsapp_button_icon_151832.png">
+<a href="https://wa.me/6282226345013"><img width="130" hight="100" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/whatsapp_button_icon_151832.png">
 ### Instagram 
 <a href="https://www.instagram.com/oiibarrr"><img width="130" hight="100" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/instagram_button_icon_151849.png">
 ### Group Whatsapp
