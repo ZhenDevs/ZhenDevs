@@ -3,10 +3,6 @@
 Halooooo 👋
 </div>
 
-<div align="center">
-<img hight="250" width="500" alt="GIF" align="center" src="https://2.bp.blogspot.com/--42C5IpYVcw/VzrdZCSOdOI/AAAAAAAAAsU/yEfBZl7v0NonSdn-oQPmwU1D3EhjOw0aQCLcB/s1600/Himouto-Umaru-chan-animated-gif-%25E5%25B9%25B2%25E7%2589%25A9%25E5%25A6%25B9%25EF%25BC%2581%25E3%2581%2586%25E3%2581%25BE%25E3%2582%258B%25E3%2581%25A1%25E3%2582%2583%25E3%2582%2593-18.gif">
-</div>
-
 </br>
 </br>
 </br>
@@ -15,7 +11,7 @@ Halooooo 👋
 # About ME 💬 :
 
 ```js 
-- I'm 16 years  old Machine Learning & Artificial Intelligence Enthusiast from Indonesia.
+- I'm 17 years  old Machine Learning & Artificial Intelligence Enthusiast from Indonesia.
 ```
 
 
@@ -25,14 +21,6 @@ Halooooo 👋
 ### - Learning :
 - ✨ Create Whatsapp Bot
 - ✨ Create Web
-
-### - Hobbies : 
-- ✨ Gaming Addict
-- ✨ Watching Anime
-- ✨ Reading Manga
-- ✨ manhwa
-- ✨ manhua
-- ✨ Badminton
 
 </br>
 </br>
@@ -80,10 +68,6 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 <a href="https://wa.me/6282226345013"><img width="130" hight="100" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/whatsapp_button_icon_151832.png">
 ### Instagram 
 <a href="https://www.instagram.com/oiibarrr"><img width="130" hight="100" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/instagram_button_icon_151849.png">
-### Group Whatsapp
-<a href="https://chat.whatsapp.com/HrYdf4eBxU08b1lRsfGo9G"><img width="130" hight="100" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/whatsapp_button_icon_151832.png">
- 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ZhenDevs&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Zynnns Github Stats">
  
 ```js
  thanks you and see you again 
