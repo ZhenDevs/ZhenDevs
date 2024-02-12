@@ -70,5 +70,5 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 <a href="https://www.instagram.com/oiibarrr"><img width="130" hight="100" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/instagram_button_icon_151849.png">
  
 ```js
- thanks you and see you again 
+ thank you and see you again 
  ```
