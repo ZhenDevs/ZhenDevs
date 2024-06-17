@@ -54,10 +54,6 @@ Halooooo 👋
 </br>
 </br>
 
-
-
-# Contact Me :
-
 ```js
 If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
 ```
