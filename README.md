@@ -11,7 +11,7 @@ Halooooo 👋
 # About ME 💬 :
 
 ```js 
-- I'm 17 years  old Machine Learning & Artificial Intelligence Enthusiast from Indonesia.
+- I'm 18 years  old Machine Learning & Artificial Intelligence Enthusiast from Indonesia.
 ```
 
 
